@@ -1,7 +1,3 @@
-Certainly! Here's a detailed README file for your GitHub repository, explaining the code and its functionality:
-
----
-
 # Mobher Matrial predicton System(beta)
 
 ## Overview
