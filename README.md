@@ -39,7 +39,7 @@ uvicorn main:app --host 127.0.0.1 --port 8000
 ```
 And then enter this link to see the Local functional API Documentation: http://127.0.0.1:8000/docs <br>
 To test the API click on 'Try it out' Then replace 'String' By any Egyption governorate and Make sure that the first letter is capital. <br>
-There is a link for non-functional API Documentationo: https://youssefabukhalifa.github.io/Api-Documentation-Mobher-/
+There is a link for non-functional API Documentation: https://youssefabukhalifa.github.io/Api-Documentation-Mobher-/
 
 ## Code Description
 
