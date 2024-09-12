@@ -1,4 +1,4 @@
-# Mobher Matrial predicton System(beta)
+# Mobher Material predicton System(beta)
 
 ## Overview
 
@@ -18,6 +18,24 @@ This project provides an AI-based system for predicting the required building ma
 - `Concrete.csv`: Includes data on concrete mixtures and their environmental compatibility.
 - `materials_dataset.csv`: Contains information on building materials including quantity requirements.
 - `height_conditions_egyptian_code.csv`: Lists height and zoning conditions according to Egyptian code.
+
+## How to run our project on your device locally? 
+
+Make sure you have: [ Python , Git ]
+First, go to the folder where you want to download the project, then open CMD inside it and type the following codes:
+```Cmd
+git clone https://github.com/Mobher-team/ML-work.git
+```
+Then after it's done Write this to install all requerments:
+```Cmd
+python -m pip install -r requirements.txt
+```
+For starting the API Write this:
+```Cmd
+uvicorn main:app --host 127.0.0.1 --port 8000
+```
+And then enter this link to see the Local functional API Documentation: http://127.0.0.1:8000/docs
+There is a link for non-functional API Documentationo: https://youssefabukhalifa.github.io/Api-Documentation-Mobher-/
 
 ## Code Description
 
