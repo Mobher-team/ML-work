@@ -21,12 +21,15 @@ This project provides an AI-based system for predicting the required building ma
 
 ## How to run our project on your device locally? 
 
-Make sure you have: [ Python , Git ] </n>
-</n> First, go to the folder where you want to download the project, then open CMD inside it and type the following codes:
+Make sure you have: [ Python , Git ] <br>
+First, go to the folder where you want to download the project, then open CMD inside it and type the following codes:
 ```Cmd
 git clone https://github.com/Mobher-team/ML-work.git
 ```
 Then after it's done Write this to install all requerments:
+```Cmd
+cd ML-work
+```
 ```Cmd
 python -m pip install -r requirements.txt
 ```
@@ -34,7 +37,8 @@ For starting the API Write this:
 ```Cmd
 uvicorn main:app --host 127.0.0.1 --port 8000
 ```
-And then enter this link to see the Local functional API Documentation: http://127.0.0.1:8000/docs
+And then enter this link to see the Local functional API Documentation: http://127.0.0.1:8000/docs <br>
+To test the API click on 'Try it out' Then replace 'String' By any Egyption governorate and Make sure that the first letter is capital. <br>
 There is a link for non-functional API Documentationo: https://youssefabukhalifa.github.io/Api-Documentation-Mobher-/
 
 ## Code Description
