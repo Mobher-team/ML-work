@@ -1,0 +1,11 @@
+Building Type,Zoning Area,Max Height (m),Min Height (m),Height Units,Floor Area Ratio (FAR),Setback Requirements,Usage Restrictions,Environmental Conditions,Height Condition,Code Reference
+Residential,Urban,15,5,meters,2.5,5 meters from property line,Residential use only,None,Limited due to proximity to other buildings,Code Section 4.1
+Commercial,Urban,25,10,meters,3,7 meters from property line,Office and retail use,Noise restrictions,Maximum height for office buildings,Code Section 4.2
+Industrial,Industrial,30,10,meters,4,10 meters from property line,Industrial use only,Ventilation and pollution control,Maximum height for warehouses,Code Section 4.3
+Residential,Suburban,10,5,meters,1.5,5 meters from property line,Single-family homes only,Low-density residential area,Height limited for low-density areas,Code Section 4.4
+High-Rise,Urban,50,20,meters,5,10 meters from property line,Mixed-use allowed,Wind load considerations,Allowed in designated high-rise zones,Code Section 4.5
+Mixed-Use,Urban,20,8,meters,3.5,8 meters from property line,Residential and commercial use,Energy efficiency requirements,Includes both residential and commercial,Code Section 4.6
+Residential,Rural,8,3,meters,1,3 meters from property line,Low-density residential,Maintain rural character,Restricted to maintain rural character,Code Section 4.7
+Commercial,Suburban,20,5,meters,2,6 meters from property line,Retail and service buildings,Local traffic impact assessment,For retail and service buildings,Code Section 4.8
+High-Rise,Urban,70,30,meters,6,12 meters from property line,High-density commercial use,Central business district guidelines,For central business districts,Code Section 4.9
+Industrial,Rural,15,5,meters,2.5,5 meters from property line,Industrial use only,Environmental concerns and assessments,Restricted due to environmental concerns,Code Section 4.10
