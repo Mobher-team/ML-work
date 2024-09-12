@@ -264,4 +264,4 @@ pip install pandas numpy scikit-learn joblib
 
 ## License
 
-This project belongs to Mobher Team 
+This project belongs to Mobher Team.
