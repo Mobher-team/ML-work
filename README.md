@@ -21,7 +21,7 @@ This project provides an AI-based system for predicting the required building ma
 
 ## How to run our project on your device locally? 
 
-Make sure you have: [ Python , Git ] <br>
+Make sure you have: [ Python 3.12 , Git ] <br>
 First, go to the folder where you want to download the project, then open CMD inside it and type the following codes:
 ```Cmd
 git clone https://github.com/Mobher-team/ML-work.git
